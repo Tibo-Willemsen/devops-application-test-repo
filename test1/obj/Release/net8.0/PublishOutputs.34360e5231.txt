@@ -1,0 +1,5 @@
+/var/www/app1/test
+/var/www/app1/test.dll
+/var/www/app1/test.deps.json
+/var/www/app1/test.runtimeconfig.json
+/var/www/app1/test.pdb

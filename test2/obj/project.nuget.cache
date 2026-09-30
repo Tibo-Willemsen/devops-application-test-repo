@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+hMqYsEZLVD3w5KzskBpAw9YmVTxsi25cq9WDs4lcIzVPxG1JueUlQxXdwFmcv9NtGh/+UM2oOlRPR2UWVH6g==",
+  "success": true,
+  "projectFilePath": "/vagrant/provisioning/src/test2/second.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}

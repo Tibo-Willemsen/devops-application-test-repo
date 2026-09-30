@@ -1,0 +1,5 @@
+/var/www/app2/second
+/var/www/app2/second.dll
+/var/www/app2/second.deps.json
+/var/www/app2/second.runtimeconfig.json
+/var/www/app2/second.pdb
